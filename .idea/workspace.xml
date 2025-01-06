@@ -4,62 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90246a65-a8a8-4842-8806-935e6e830bd8" name="Changes" comment="Api automation initial framework structure">
-      <change afterPath="$PROJECT_DIR$/allure-results/080a9708-3ab1-4048-a831-ee8bf2ba5e7c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/11068942-26d3-4362-82bc-0061510aa1c3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/17c65fe3-c02a-4a60-94c8-3b88aaf77fde-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1fafecbb-5f68-42a3-a37c-67f7618554e6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/24145ec1-de96-4769-86e2-cadd8d5bf309-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/322b4adc-4a9e-4e37-b543-aac526b2dd3c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/324fd6a9-9c9f-4a3c-b607-354f12a3ec9c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/33fa1287-f6b0-4090-a9f1-6379787eab45-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/37fab497-96d9-4029-a83a-ee7feda86c4f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3a4658ae-4021-417b-b709-d1e64476c0ff-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/40ab1268-c073-4ff1-be2d-e8bbed078542-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4ad012a2-c5d3-4b06-904f-5f2c9b0cde9a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4cb8bab8-221e-451b-89d7-91eea2614c4e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5d201838-1983-4aca-a8b5-19b4e1dea04d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5e98ac98-1856-4b89-9e20-08804ccfa710-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/66ff5279-0888-46d5-a6f0-6f5583df4385-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7b2e54ec-6dc8-45b7-ac9d-1e0ed04e1138-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7f4230eb-6e77-42ea-ba56-77efc8883b85-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7fd44841-231d-4297-81db-f7f3f0a4cf02-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/83fe76c8-9a17-4a67-acbb-5e34648ccb0d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/84369a9e-fed7-41fb-b5f3-625df73f7d3b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/858b8ab0-81cb-489a-a6a0-8ee2e371cae6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/88f6a6a7-5e88-40ed-8c01-697d97365173-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/89aa1c43-d0ca-477e-a946-5f044e21e1d1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/965d8a5d-d4f5-4fe9-974c-ae280a6b48b1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/99f13cf5-8b5e-4f32-a29f-a7401e4ad561-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ab3daba7-e6ba-4885-9a0b-5d6f2cb081f3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ae0ad2da-ba1b-4fd4-9b2b-0fadc4f11f36-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/af800cef-e85a-43df-9785-c81086de3c18-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b373a526-1780-4875-852a-83ef0485def6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b60140a6-c4cd-453e-88e5-1d1e16c9bead-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b679674d-4e59-4d97-8b4a-60ab328e3aee-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c9532805-769e-428f-9f6a-4912ba5a1b3d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d2648d6f-185b-4dde-9e0a-dd683d6daa35-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d46ac2e2-9b43-4468-8076-e6366d4777c4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d77ccee7-9172-4639-9832-edc319b8dce2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e37bcea9-e0de-421d-b3be-17d6c9c1a697-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e5804c1a-b311-4eec-9687-1f6a1fb2608c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e5ba22ca-22bf-4197-976d-ff7497928710-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ed861393-3eb5-468f-a026-6778dd8f165a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f403b920-2685-4127-96af-873a81d679c1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f5dcadd6-c372-4702-af25-5641a4194938-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/faaa4a42-6f40-49a7-9c8e-0b7ff94ad3d4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fe87dbc1-99ed-4098-b6c1-1248539d32fb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/integration/TCIntegrationSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/TestData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcIntegrationSample.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCreateBookingPost.xml" afterDir="false" />
+    <list default="true" id="90246a65-a8a8-4842-8806-935e6e830bd8" name="Changes" comment="All file pushed!">
+      <change afterPath="$PROJECT_DIR$/allure-results/0274f43c-9697-4c94-a973-730a73a2de0e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/333701dc-3437-46a4-878a-4a240bcb7eea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3eb199af-377c-4096-bfc8-2a04ff90362f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/434b4551-5d27-4d74-ab62-63fbc5dab5fd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6bf570b7-4dc7-49aa-b2d9-cb8d17fd5113-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/81e82316-c9f0-4cb4-9def-6f14ecd2971c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/99dcf0b3-855b-4f94-847e-70f5b88d27e9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9ef4d44e-0b9c-481c-9f42-1fa096bee945-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9f4334ff-0620-41ab-863c-7061699c4c23-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b30d58c0-a92d-44d5-85fc-cad35b7b9910-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e01e12c2-1e02-438e-8ddc-762489e1bf10-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f0523ddd-10b0-4268-9b06-65e3d1f7d675-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/pojos/Auth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/pojos/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/utils/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcIntegrationFlow.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testingacademy/endpoints/APIConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/endpoints/APIConstants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/testingacademy/modules/PayloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/modules/PayloadManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/asserts/AssertActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/asserts/AssertActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/base/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/crud/TestCreateBookingPOST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/crud/TestCreateBookingPOST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/integration/TCIntegrationFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/integration/TCIntegrationFlow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_groups.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/xml/com.testingacademy.tests.crud.TestCreateBookingPOST_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.testingacademy.tests.crud.TestCreateBookingPOST_results.xml" afterDir="false" />
     </list>
@@ -109,9 +78,12 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/tcIntegrationFlow.xml.executor": "Run",
     "TestNG.C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/tcIntegrationSample.xml.executor": "Run",
     "TestNG.C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/testCreateBookingPost.xml.executor": "Run",
     "TestNG.C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/testng.xml.executor": "Run",
+    "TestNG.TestCreateBookingPOST.executor": "Run",
+    "TestNG.TestCreateBookingPOST.testVerifyCreateBookingPost.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x",
@@ -123,31 +95,13 @@
       <recent name="C:\Users\Naman\IdeaProjects\APIAutomationFramworkATB7x" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/tcIntegrationSample.xml">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.App" />
+  <component name="RunManager" selected="TestNG.C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/tcIntegrationFlow.xml">
+    <configuration name="C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/tcIntegrationFlow.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFramworkATB7x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testingacademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationFramworkATB7x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testingacademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.AppTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/tcIntegrationFlow.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,10 +126,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCreateBookingPOST" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFramworkATB7x" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.tests.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.tests.crud" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.tests.crud.TestCreateBookingPOST" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCreateBookingPOST.testVerifyCreateBookingPost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFramworkATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.tests.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.tests.crud" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.tests.crud.TestCreateBookingPOST" />
+      <option name="METHOD_NAME" value="testVerifyCreateBookingPost" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -184,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/tcIntegrationFlow.xml" />
+        <item itemvalue="TestNG.TestCreateBookingPOST.testVerifyCreateBookingPost" />
+        <item itemvalue="TestNG.TestCreateBookingPOST" />
         <item itemvalue="TestNG.C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/tcIntegrationSample.xml" />
         <item itemvalue="TestNG.C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/testCreateBookingPost.xml" />
-        <item itemvalue="TestNG.C:/Users/Naman/IdeaProjects/APIAutomationFramworkATB7x/testng.xml" />
-        <item itemvalue="JUnit.AppTest" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -241,13 +220,30 @@
       <option name="project" value="LOCAL" />
       <updated>1736087538594</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="All file pushed!">
+      <option name="closed" value="true" />
+      <created>1736153205928</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736153205928</updated>
+    </task>
+    <task id="LOCAL-00007" summary="All file pushed!">
+      <option name="closed" value="true" />
+      <created>1736153232780</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736153232780</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Api automation framework structure" />
     <MESSAGE value="Api automation initial framework structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Api automation initial framework structure" />
+    <MESSAGE value="All file pushed!" />
+    <option name="LAST_COMMIT_MESSAGE" value="All file pushed!" />
   </component>
 </project>

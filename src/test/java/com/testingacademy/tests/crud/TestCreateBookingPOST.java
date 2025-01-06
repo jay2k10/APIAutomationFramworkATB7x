@@ -4,6 +4,7 @@ import com.testingacademy.base.BaseTest;
 import com.testingacademy.endpoints.APIConstants;
 import com.testingacademy.pojos.BookingResponse;
 
+import com.testingacademy.utils.PropertyReader;
 import io.qameta.allure.*;
 import io.restassured.RestAssured;
 
@@ -29,17 +30,17 @@ public class TestCreateBookingPOST extends BaseTest {
         response = RestAssured.given(requestSpecification).when()
                 .body(payloadManager.createPayloadBookingAsString()).post();
         validatableResponse = response.then().log().all();
-        validatableResponse.statusCode(200);
+        validatableResponse.statusCode(Integer.parseInt(PropertyReader.readkey("booking.post.status.code.success")));
 
         //Default Rest Assured
-        validatableResponse.body("booking.firstname", Matchers.equalTo("James"));
+        validatableResponse.body("booking.firstname", Matchers.equalTo(PropertyReader.readkey("booking.post.firstname")));
 
         BookingResponse bookingResponse = payloadManager.bookingResponseJava(response.asString());
 
         // AssertJ
         assertThat(bookingResponse.getBookingid()).isNotNull();
         assertThat(bookingResponse.getBooking().getFirstname()).isNotNull().isNotBlank();
-        assertThat(bookingResponse.getBooking().getFirstname()).isEqualTo("James");
+        assertThat(bookingResponse.getBooking().getFirstname()).isEqualTo(PropertyReader.readkey("booking.post.firstname"));
 
 
         //TestNG Assertions
