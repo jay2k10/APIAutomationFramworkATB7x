@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationFramworkATB7x"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.163">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testVWOLogin"
+                time="0.153"
+                classname="com.testingacademy.tests.ddt.vwo.VWOLoginAPIDDT">
+            </testcase>
+            <testcase
+                name="testVWOLogin"
+                time="0.005"
+                classname="com.testingacademy.tests.ddt.vwo.VWOLoginAPIDDT">
+            </testcase>
+            <testcase
+                name="testVWOLogin"
+                time="0.005"
+                classname="com.testingacademy.tests.ddt.vwo.VWOLoginAPIDDT">
+            </testcase>
+</testsuite>
